@@ -23,9 +23,9 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#quick-description">Built With</a></li>
-        <li><a href="#background/motivation">Built With</a></li>
-        <li><a href="#workflow-summary">Built With</a></li>
+        <li><a href="#quick-description">Quick Description</a></li>
+        <li><a href="#background/motivation">Background/motivation</a></li>
+        <li><a href="#workflow-summary">Workflow Summary</a></li>
       </ul>
     </li>
     <li>
